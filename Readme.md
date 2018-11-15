@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PivotCalculatedFieldActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedFieldActions.cs) (VB: [PivotCalculatedFieldActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedFieldActions.vb))
+* [PivotCalculatedItemActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedItemActions.cs) (VB: [PivotCalculatedItemActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedItemActions.vb))
+* [PivotFieldActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldActions.cs) (VB: [PivotFieldActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldActions.vb))
+* [PivotFieldGroupingActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldGroupingActions.cs) (VB: [PivotFieldGroupingActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldGroupingActions.vb))
+* [PivotTableActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableActions.cs) (VB: [PivotTableActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableActions.vb))
+* [PivotTableFilterActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFilterActions.cs) (VB: [PivotTableFilterActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFilterActions.vb))
+* [PivotTableFormattingActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.cs) (VB: [PivotTableFormattingActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.vb))
+* [PivotTableLayoutActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.cs) (VB: [PivotTableLayoutActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.vb))
+* [ValueFieldSettingsActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/ValueFieldSettingsActions.cs) (VB: [ValueFieldSettingsActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/ValueFieldSettingsActions.vb))
+<!-- default file list end -->
 # WPF Spreadsheet Pivot Table API
 
 
