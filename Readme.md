@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PivotFieldActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldActions.cs) (VB: [PivotFieldActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotFieldActions.vb))
+* [PivotTableActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableActions.cs) (VB: [PivotTableActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableActions.vb))
+* [PivotTableFilterActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFilterActions.cs) (VB: [PivotTableFilterActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFilterActions.vb))
+* [PivotTableFormattingActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.cs) (VB: [PivotTableFormattingActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.vb))
+* [PivotTableLayoutActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.cs) (VB: [PivotTableLayoutActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.vb))
+<!-- default file list end -->
 # WPF Spreadsheet Pivot Table API
 
 
