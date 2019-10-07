@@ -9,7 +9,7 @@
     xmlns:local="clr-namespace:SpreadsheetWPFPivotTableExamples"
     xmlns:dxo="http://schemas.devexpress.com/winfx/2008/xaml/office" 
     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" 
-    xmlns:UI="clr-namespace:DevExpress.Xpf.Spreadsheet.UI;assembly=DevExpress.Xpf.Spreadsheet.v16.1"
+    xmlns:UI="clr-namespace:DevExpress.Xpf.Spreadsheet.UI;assembly=DevExpress.Xpf.Spreadsheet.v19.2"
     x:Class="SpreadsheetWPFPivotTableExamples.MainWindow" Height="800" Width="1024" Title="Spreadsheet Pivot Table API Examples"
     dx:ThemeManager.ThemeName="Office2013">
 

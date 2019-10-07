@@ -47,7 +47,7 @@ Namespace SpreadsheetWPFPivotTableExamples
             Next sheet
 
             Dim firstSheet As Worksheet = workbook.Worksheets(0)
-            Dim usedRange As Range = firstSheet.GetUsedRange()
+            Dim usedRange As CellRange = firstSheet.GetUsedRange()
             firstSheet.SelectedCell = usedRange(usedRange.RowCount * usedRange.ColumnCount - 1).Offset(1, 1)
 
             If codeEditor IsNot Nothing Then
