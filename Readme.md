@@ -3,8 +3,17 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T314425)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WPF Spreadsheet - Manage Pivot Tables in Code
+
+
+This example demonstrates how to use the SpreadsheetControl **Pivot Table API** to create and modify pivot tables in code.
+
+The application includes the [RichEditControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.RichEdit.RichEditControl)) (at the top) used to display and edit the code and the [SpreadsheetControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Spreadsheet.SpreadsheetControl) (at the bottom) which shows the result of code execution.
+
+You can modify the code and watch the result. If an error occurs during compilation or execution, the code window background color turns to pink.
+
+## Files to Review 
 
 * [PivotCalculatedFieldActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedFieldActions.cs) (VB: [PivotCalculatedFieldActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedFieldActions.vb))
 * [PivotCalculatedItemActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedItemActions.cs) (VB: [PivotCalculatedItemActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotCalculatedItemActions.vb))
@@ -15,12 +24,8 @@
 * [PivotTableFormattingActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.cs) (VB: [PivotTableFormattingActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableFormattingActions.vb))
 * [PivotTableLayoutActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.cs) (VB: [PivotTableLayoutActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/PivotTableLayoutActions.vb))
 * [ValueFieldSettingsActions.cs](./CS/SpreadsheetWPFPivotTableExamples/CodeExamples/ValueFieldSettingsActions.cs) (VB: [ValueFieldSettingsActions.vb](./VB/SpreadsheetWPFPivotTableExamples/CodeExamples/ValueFieldSettingsActions.vb))
-<!-- default file list end -->
-# WPF Spreadsheet Pivot Table API
 
+## Documentation
 
-This example demonstrates how to use the SpreadsheetControl <strong>Pivot Table API</strong> to create and modify pivot tables in code.<br>The application includes the <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfRichEditRichEditControltopic">RichEditControl</a> (at the top) used to display and edit the code and the <a href="https://documentation.devexpress.com/#WPF/clsDevExpressXpfSpreadsheetSpreadsheetControltopic">SpreadsheetControl</a> (at the bottom) which shows the result of code execution.<br>You can modify the code and watch the result. If an error occurs during compilation or execution, the code window background color turns to pink.<br><br><strong>Starting from v2016.1:</strong><br>- Create calculated fields and calculated items<br>- Group items in a PivotTable field<br>- Sort items in a PivotTable field by values of a data field
-
-<br/>
-
-
+* [Spreadsheet Pivot Tables](https://docs.devexpress.com/WPF/115086/controls-and-libraries/spreadsheet/pivot-table-overview)
+* [Pivot Table Examples](https://docs.devexpress.com/WPF/115090/controls-and-libraries/spreadsheet/examples/pivot-tables)
